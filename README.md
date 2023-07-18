@@ -1,6 +1,6 @@
-# Vuetify Landing Page Template
+# Landing Page Template
 
-#### This is an example of a landing page built with vue and vuetify.
+#### This is an example of a landing page built with vue.
 
 
 ## 🚀 Project setup
