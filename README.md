@@ -36,7 +36,7 @@ npm run build
 <a href="https://github.com/sajid4coding">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/110894919?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Joabson Arley</b></sub></a> <a href="https://github.com/sajid4coding" title="Github">🚀</a>
+ <sub><b>Sajal Islam Sajid</b></sub></a> <a href="https://github.com/sajid4coding" title="Github">🚀</a>
 
 [![Gmail Badge](https://img.shields.io/badge/-sajalislamsajid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajalislamsajid@gmail.com)](mailto:sajalislamsajid@gmail.com)
 
