@@ -16,7 +16,7 @@ cd Landing-Page-Vue3
 ```
 Use [npm](https://www.npmjs.com/) to install dependencies.
 ```bash
-npm i
+npm install
 ```
 
 
